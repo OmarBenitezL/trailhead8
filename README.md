@@ -7,6 +7,7 @@ The repository contains apex, triggers and aura components for the following tra
 * Quick Start: Aura Components
 * Asynchronous Apex
 * Build Flexible Apps with Lightning Components
+* Platform Cache Basic
 
 ## Dev, Build and Test
 
