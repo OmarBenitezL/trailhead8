@@ -1,5 +1,5 @@
 # SFDX App
-The repository contains trailheads like:
+The repository contains apex, triggers and aura components for the following trailheads:
 * Build a Conference Management App
 * Apex & .NET Basics
 * Lightning Design System for Developers
