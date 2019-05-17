@@ -8,7 +8,7 @@ The repository contains apex, triggers and aura components for the following tra
 * Asynchronous Apex
 * Build Flexible Apps with Lightning Components
 * Platform Cache Basic
-
+* Platform Events Basics
 ## Dev, Build and Test
 
 ## Resources
